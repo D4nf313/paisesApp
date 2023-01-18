@@ -1,5 +1,7 @@
 # PaisesApp
 
+Aplicacion creada para consumir la informacion de Rest countries y realizar un buscador de paises por nombre capital y ver información relevante.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Development server
